@@ -1,11 +1,7 @@
-import {Router} from 'express'
+import { Router } from 'express';
 
-export const CartRouter = Router()
+export const CartRouter = Router();
 
-UsersRouter.get('/', (req, res) => {
-    res.send({message: 'ok'})
-})
-
-UsersRouter.get('/:id', (req, res) => {
-    res.send({message: {...req.params}})
-})
+CartRouter.get('/', (req, res) => {
+    res.send('Cart route');
+});

@@ -1,1 +1,58 @@
-[]
+[
+	{
+		"id": "c8646d86-a060-4549-acf4-cc5c9cc3a342",
+		"title": "Product Title",
+		"description": "Product Description",
+		"code": "12345",
+		"price": 100,
+		"status": "available",
+		"stock": 50,
+		"category": "Category",
+		"thumbnails": [
+			"thumbnail1.jpg",
+			"thumbnail2.jpg"
+		]
+	},
+	{
+		"id": "681aee81-4cea-42d7-a630-77e99f5c1dbf",
+		"title": "Product Titleserr",
+		"description": "Product Descriptionerf",
+		"code": "12345",
+		"price": 100,
+		"status": "available",
+		"stock": 13,
+		"category": "Category",
+		"thumbnails": [
+			"thumbnail1.jpg",
+			"thumbnail2.jpg"
+		]
+	},
+	{
+		"id": "0084f1e5-6ddb-4bd7-adc5-914052e78d44",
+		"title": "Product Titleserr 323",
+		"description": "Product Descriptionerf",
+		"code": "12345",
+		"price": 100,
+		"status": "available",
+		"stock": 13,
+		"category": "Category",
+		"thumbnails": [
+			"thumbnail1.jpg",
+			"thumbnail2.jpg"
+		]
+	},
+	{
+		"id": "f0692b89-ad06-4237-b713-09a943efa969",
+		"title": "Product Titleserr 323",
+		"description": "Product Descriptionerf",
+		"code": "12345",
+		"price": 100,
+		"status": "available",
+		"stock": 13,
+		"category": "Category",
+		"thumbnails": [
+			"thumbnail1.jpg",
+			"thumbnail2.jpg"
+		]
+	}
+]

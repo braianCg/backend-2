@@ -1,5 +1,6 @@
-export const logger = (req, res, next) => {
-  console.debug(req.body)
-  console.debug({ ms: Date.now() })
-  next()
-}
+const logger = (req, res, next) => {
+  console.log(`${req.method} ${req.url}`);
+  next();
+};
+
+export default logger;
