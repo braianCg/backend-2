@@ -1,4 +1,3 @@
-// filepath: /c:/Users/thela/OneDrive/Escritorio/back/src/app/index.js
 import express from 'express';
 import { create } from 'express-handlebars';
 import { ProductsRouter } from '../routes/products.js';
